@@ -1,0 +1,5 @@
+/my_env/
+config.py
+__pycache__
+/results/
+.DS_Store
