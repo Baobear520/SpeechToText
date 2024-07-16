@@ -1,0 +1,1 @@
+Transcribes speech/lyrics from audio files into text and saves it in a .txt file.
